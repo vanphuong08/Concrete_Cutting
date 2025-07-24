@@ -6,7 +6,6 @@ body {
   padding-top: 60px;
 }
 header {
-  position: fixed;                /* Gim cố định trên cùng */
   top: 0;
   left: 0;
   width: 100%;
